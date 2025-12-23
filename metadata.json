@@ -1,0 +1,8 @@
+{
+  "name": "Global AI Accessibility Companion",
+  "description": "An accessibility-first multimodal app designed to break communication and visual barriers for people with disabilities using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
